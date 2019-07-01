@@ -1,5 +1,7 @@
 {
   "name": "Adventurer",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
